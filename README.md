@@ -1,2 +1,2 @@
-# TuShareToSQL
-Download TuShare data to SQL Databases
+# tushareToSQL
+Download tushare data to SQL Databases
